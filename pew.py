@@ -2,7 +2,7 @@
 Messing around with data from Pew Research Center data.
 
 Prepared for the NYU Course "Data Bootcamp."
-More at https://github.com/DaveBackus/Data_Bootcamp
+More at https://github.com/NYUDataBootcamp/Materials
 
 References
 * http://www.pewresearch.org/category/interactives/
@@ -55,4 +55,3 @@ plt.axvline(x=atm, color='k', linestyle='--', lw=2, label='atm')
 plt.xlabel('Strike')
 plt.ylabel('Option Price')
 plt.legend(loc='upperleft')
-

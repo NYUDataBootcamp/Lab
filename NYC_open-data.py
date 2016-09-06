@@ -9,8 +9,8 @@ Directions:  search for dataset, click on export, right click on csv for url,
 then kill everything after the question mark.
 
 Prepared for Data Bootcamp course at NYU
-* https://github.com/DaveBackus/Data_Bootcamp
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Lab
+* https://github.com/NYUDataBootcamp/Materials
+* https://github.com/NYUDataBootcamp/Materials/Code/Lab
 
 Written by Dave Backus, February 2016
 Created with Python 3.5

@@ -10,7 +10,7 @@ Links
 
 Prepared for Data Bootcamp course at NYU
 * http://databootcamp.nyuecon.com/
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Lab
+* https://github.com/NYUDataBootcamp/Materials/Code/Lab
 
 Written by Dave Backus, February 2016
 Created with Python 3.5

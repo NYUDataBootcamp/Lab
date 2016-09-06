@@ -6,7 +6,7 @@ Sources
 * https://collegescorecard.ed.gov/data/
 
 Repository of materials (including this file):
-* https://github.com/DaveBackus/Data_Bootcamp/
+* https://github.com/NYUDataBootcamp/Materials/
 
 Written by Dave Backus, December 2015
 Created with Python 3.5

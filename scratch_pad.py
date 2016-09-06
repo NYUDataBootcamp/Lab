@@ -8,8 +8,8 @@ print('Pandas version:', pd.__version__)
 
 #%%
 # read file from url
-url1 = 'https://raw.githubusercontent.com/DaveBackus'
-url2 = '/Data_Bootcamp/master/Code/Python/test.csv'
+url1 = 'https://raw.githubusercontent.com/NYUDataBootcamp'
+url2 = '/Materials/master/Data/test.csv'
 url  = url1 + url2
 df = pd.read_csv(url)
 
@@ -24,8 +24,9 @@ print(df2)
 df2 = pd.read_csv(url, na_values=[1, 6])
 print(df2)
 #%%
-url1 = 'https://raw.githubusercontent.com/DaveBackus'
-url2 = '/Data_Bootcamp/master/Code/Python/test.xlsx'
+
+url1 = 'https://raw.githubusercontent.com/NYUDataBootcamp'
+url2 = '/Materials/master/Data/test.xlsx'
 url_xls = url1 + url2
 dfx = pd.read_excel(url_xls)
 print(dfx)
