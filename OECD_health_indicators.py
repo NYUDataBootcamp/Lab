@@ -5,8 +5,8 @@ Links
 * http://www.oecd.org/health/health-systems/health-data.htm
 
 Prepared for Data Bootcamp course at NYU
-* https://github.com/DaveBackus/Data_Bootcamp
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Lab
+* https://github.com/NYUDataBootcamp/Materials
+* https://github.com/NYUDataBootcamp/Materials/Code/Lab
 
 Written by Dave Backus, January 2016
 Created with Python 3.5

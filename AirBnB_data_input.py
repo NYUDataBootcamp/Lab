@@ -8,9 +8,8 @@ Link to scraped data
 * http://insideairbnb.com/get-the-data.html
 
 Prepared for Data Bootcamp course at NYU
-* https://github.com/DaveBackus/Data_Bootcamp
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Lab
-
+* https://github.com/NYUDataBootcamp/Materials
+* https://github.com/NYUDataBootcamp/Lab
 Written by Dave Backus, February 2016
 Created with Python 3.5
 """
@@ -45,4 +44,3 @@ airrev = pd.read_csv(urlrev, compression='gzip')
 print('\nReviews data')
 print('Dimensions:', airrev.shape)
 print('Variables:\n', list(airrev), sep='')
-

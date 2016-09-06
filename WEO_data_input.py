@@ -7,8 +7,8 @@ Collection:  https://www.imf.org/external/ns/cs.aspx?id=28
 April 2015:  http://www.imf.org/external/pubs/ft/weo/2015/01/weodata/index.aspx
 
 Prepared for Data Bootcamp course at NYU
-* https://github.com/DaveBackus/Data_Bootcamp
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Lab
+* https://github.com/NYUDataBootcamp/Materials
+* https://github.com/NYUDataBootcamp/Materials/Code/Lab
 
 Written by Dave Backus, August 2015
 Created with Python 3.4

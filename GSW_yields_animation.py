@@ -7,7 +7,7 @@
 US Yield Curve Dynamics
 
 Repository of materials (not including this file):
-* https://github.com/DaveBackus/Data_Bootcamp
+* https://github.com/NYUDataBootcamp/Materials
 
 Written by David Cai, June 2015, txc202@nyu.edu
 Created with Python 3.4.3

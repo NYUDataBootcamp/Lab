@@ -4,8 +4,8 @@ https://www.imf.org/External/pubs/cat/longres.aspx?sk=24332.0
 rows are countries, columns are dates (1692-2012)
 
 Prepared for Data Bootcamp course at NYU
-* https://github.com/DaveBackus/Data_Bootcamp
-* https://github.com/DaveBackus/Data_Bootcamp/Code/Python
+* https://github.com/NYUDataBootcamp/Materials
+* https://github.com/NYUDataBootcamp/Materials/Code/Python
 
 Written by Hersh Iyer and Itamar Snir, November 2015
 Created with Python 3.5

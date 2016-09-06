@@ -2,7 +2,7 @@
 Messing around with World Bank data.
 
 Prepared for the NYU Course "Data Bootcamp."
-More at https://github.com/DaveBackus/Data_Bootcamp
+More at https://github.com/NYUDataBootcamp/Materials
 
 NIPA codes
 General government final consumption expenditure (current LCU)	NE.CON.GOVT.CN

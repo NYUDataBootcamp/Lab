@@ -8,7 +8,7 @@ http://www.doingbusiness.org/rankings
 
 Course materials
 * http://databootcamp.nyuecon.com/
-* https://github.com/DaveBackus/Data_Bootcamp
+* https://github.com/NYUDataBootcamp/Materials
 
 Written by Dave Backus, February 2016
 Created with Python 3.5
