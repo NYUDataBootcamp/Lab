@@ -5,7 +5,7 @@ this turned into an exploration of how to handle zip files -- see Section 1.
 Section 2 (coming) does slicing and plotting.
 
 Prepared for the NYU Course "Data Bootcamp."
-More at https://github.com/DaveBackus/Data_Bootcamp
+More at https://github.com/NYUDataBootcamp/Materials
 
 References
 * http://datacatalog.worldbank.org/

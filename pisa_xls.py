@@ -7,10 +7,10 @@ Sources
 * http://www.oecd.org/pisa/
 * https://nces.ed.gov/surveys/pisa/
 * http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-I.pdf
-* https://github.com/DaveBackus/Data_Bootcamp/blob/master/Code/Projects/PISA_SusanChen_Aug_15.ipynb
+* https://github.com/NYUDataBootcamp/Materials/blob/master/Code/Projects/PISA_SusanChen_Aug_15.ipynb
 
 Repository of materials (including this file):
-* https://github.com/DaveBackus/Data_Bootcamp/
+* https://github.com/NYUDataBootcamp/Materials/
 
 Written by Dave Backus, December 2015, based on earlier work by Susan Chen
 Created with Python 3.5

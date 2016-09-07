@@ -7,7 +7,7 @@ Once we've read in the data, we can slice as needed.
 Note:  data file is labeled xls but it's really tab-delimited text.
 
 Prepared for the NYU Course "Data Bootcamp."
-More at https://github.com/DaveBackus/Data_Bootcamp
+More at https://github.com/NYUDataBootcamp/Materials
 
 References
 * http://www.imf.org/external/ns/cs.aspx?id=28

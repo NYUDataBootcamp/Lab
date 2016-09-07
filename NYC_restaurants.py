@@ -25,7 +25,7 @@ RECORD DATE  Date data was extracted
 From:  https://nycopendata.socrata.com/api/views/xx67-kt59/files/cWGKTm3caip6-I-6ZXJ6GeXSw9A_VieTzbBJhE41Mpc?download=true&filename=Restaurant%20Inspection%20Open%20Data%20Dictionary%20082214.xlsx
 
 Repository of materials (including this file):
-* https://github.com/DaveBackus/Data_Bootcamp
+* https://github.com/NYUDataBootcamp/Materials
 
 Written by Dave Backus, January 2016
 Created with Python 3.5
