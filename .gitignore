@@ -5,15 +5,14 @@ Logistics/
 Miscellaneous/
 Launch/
 Code/Temp
-Code/csv 
-*.ini 
+Code/csv
+*.ini
 
-## Potentially large files 
+## Potentially large files
 *.zip
-*.csv 
 *.xls
 *.xlsx
-*.exe 
+*.exe
 
 .dropbox
 .dropbox.attr
@@ -31,7 +30,7 @@ Other_courses/
 Code/Lab/*.pdf
 Code/Answers
 
-## Video and images 
+## Video and images
 *.mp4
 *.mov
 *.png
@@ -76,3 +75,4 @@ website/public/
 node_modules/
 *.sublime-project
 *.sublime-workspace
+
